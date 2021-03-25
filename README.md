@@ -1,3 +1,3 @@
-# 2020-ca216-cipher-crack
+# Subsitution Cipher with Multi-Threading
 
-This is the repository for the CA216 Operating Systems Cipher-crack project.
+This code uses multi-threading to decipher text by substitution cipher.
