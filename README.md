@@ -1,4 +1,4 @@
-# Cipher Text Decryption Program
+# Substitution Cipher Text Decryption Program
 
 ## Overview
 This program is designed to decrypt cipher text files using a series of frequency analysis and pattern-matching techniques. It employs multiprocessing to improve performance and processes cipher text in stages to identify and replace characters based on common English letter frequencies, bigrams, trigrams, and word structures.
